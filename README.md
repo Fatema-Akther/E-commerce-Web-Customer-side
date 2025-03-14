@@ -2,6 +2,7 @@ This  is an e-commerce platform where customers can browse products, add items t
 Features:
 
 1.User Authentication: Secure login with JWT tokens.
+
 2.Password Reset: Password reset via email with a token.
 3.Profile Management: View and update customer profile.
 4.Product Operations: Add, update, search, and filter products.
